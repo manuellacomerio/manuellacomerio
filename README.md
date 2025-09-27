@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Manuella Comerio (Manu for short), a sustainable development professional and (aspiring) urban data scientist.
+I am Manuella (Manu for short), a sustainable development professional and (aspiring) urban data scientist.
 I've completed my MSc in Urban Analytics at the University of Glasgow in 2024 with a full scholarship from the Chevening scheme, during which I developed my skills in R and Python programming. Afterwards, I also worked as a Research Assistant at the Urban Big Data Centre, University of Glasgow in the IDEAMAPS project, where I furthered honed my programming, analytical and research skills.
 
 
